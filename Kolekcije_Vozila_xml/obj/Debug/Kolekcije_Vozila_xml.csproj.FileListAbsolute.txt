@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\bin\Debug\Kolekcije_Vozila_xml.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\bin\Debug\Kolekcije_Vozila_xml.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\bin\Debug\Kolekcije_Vozila_xml.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\obj\Debug\Kolekcije_Vozila_xml.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\obj\Debug\Kolekcije_Vozila_xml.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\obj\Debug\Kolekcije_Vozila_xml.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\obj\Debug\Kolekcije_Vozila_xml.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\obj\Debug\Kolekcije_Vozila_xml.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\obj\Debug\Kolekcije_Vozila_xml.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\obj\Debug\Kolekcije_Vozila_xml.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Kolekcije_Vozila_xml\obj\Debug\Kolekcije_Vozila_xml.pdb
